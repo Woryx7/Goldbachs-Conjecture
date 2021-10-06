@@ -1,5 +1,5 @@
 import math
-# cache variable to save known prime results
+# cache to save known prime results
 known_primes = {1:False,2:True,3:True,4:False}
 # Function to find the sum of a number's digits
 def digitsum(number):
