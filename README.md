@@ -3,7 +3,7 @@
 This code is set to solve https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=484 problem. The problem states that a number can be
 expresed as the sum of two prime numbers. This conjecture was proposed by Goldbach to Euler, and thus it is called the Goldbach's Conjecture.
 
-The code recieves an input of a number which is then analyzed iteratively by a loop in which i is substracted from the original number. If i and the substraction are both
+The code receives an input of a number which is then analyzed iteratively by a loop in which i is substracted from the original number. If i and the substraction are both
 prime numbers, and their sum is equal to the original number, then the program outputs the sum of both numbers. On the other hand, in case said sum does not exist, 
 "Goldbach's Theory is wrong." is printed instead.
 
