@@ -11,11 +11,8 @@ known_primes = {1: False, 2: True, 3: True, 4: False}
 def digitsum(number):
     """The digitsum function returns the sum of each digit in
     a number."""
-    total = 0
     digits = [int(digit) for digit in str(number)]
-    for i in digits:
-        total += i
-    return total
+    return sum(digits)
 
 
 def sieve(number):
