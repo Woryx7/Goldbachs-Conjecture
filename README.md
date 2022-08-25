@@ -14,4 +14,4 @@ or false I would use a sieve based function in which the program would analyze d
 the number would be a prime.
 
 That is the basic functionality of the program, I also used sets and a dictionary based cache for the repetitive prime calculations, this would make the code faster and it
-takes around 0.9 seconds to run under the input of Online Judge. Cambiooos
+takes around 0.9 seconds to run under the input of Online Judge. Ya arreglado
